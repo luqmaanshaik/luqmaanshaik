@@ -4,7 +4,10 @@
 
 💡 Passionate about AI, Machine Learning, and Computer Vision. I love building projects that solve real-world problems.  
 
-📌 *Tech Stack:* Python | TensorFlow | PyTorch | OpenCV | Flask | SQL | AWS  
+### 🛠 Tech Stack  
+🔹 **Languages:** Python, SQL  
+🔹 **Frameworks & Libraries:** TensorFlow, PyTorch, OpenCV, Flask  
+🔹 **Cloud & Tools:** AWS, Google Colab, Streamlit, Git
 
 🔗 *GitHub Portfolio:* [github.com/luqmaanshaik](https://github.com/luqmaanshaik)  
 
